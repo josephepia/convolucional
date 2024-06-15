@@ -1,4 +1,6 @@
 
 /HMC-QU
 /output_frames
+/dataSetFrames
 *.jpg
+*mask.npy
